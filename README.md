@@ -5,14 +5,6 @@ This project combines **OpenCV**, **MediaPipe**, and **TensorFlow** to detect di
 
 ---
 
-## 🎥 Demo Preview
-
-> *(Optional)* Add a demo video or GIF here  
-> Example:  
-> ![Demo GIF](demo.gif)
-
----
-
 ## 🚀 Features
 
 - 🎮 Real-time Snake game controlled by hand gestures  
