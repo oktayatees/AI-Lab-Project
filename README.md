@@ -25,7 +25,7 @@ This project combines **OpenCV**, **MediaPipe**, and **TensorFlow** to detect di
 | `gesture_landmark_model_best.h5` | Trained model used during gameplay |
 | `gesture_data/` *(optional)*| Folder where gesture images are stored (one subfolder per gesture) |
 | `training_history.png`      | Accuracy/loss plots of the training process |
-| `Code_Report`               | Detailed explanation of the concepts used in the project |
+| `Code Report`               | Detailed explanation of the concepts used in the project |
 | `README.md`                 | You're reading it! |
 
 ---
